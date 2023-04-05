@@ -7,3 +7,7 @@ db/*.db
 #Enviroment
 .env
 .env.test
+
+
+#Deploy
+build
